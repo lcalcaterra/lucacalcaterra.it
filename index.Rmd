@@ -1,0 +1,27 @@
+---
+title: "Luca Calcaterra"
+image: "foto.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/luca-calcaterra5"
+  - label: Kaggle
+    url: "https://www.kaggle.com/talpinho"
+  - label: GitHub
+    url: "https://github.com/lcalcaterra"
+  - label: Email
+    url: "lucacalcaterra95@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a Data Scientist and I love my wife. 
+Currently I work at Diskover on data science python applications. 
+I love drawing and reading novels. I also love talk about fitness. 
+
+<!-- INIZIO CODICE PER ELENCO PROGETTI
+
+### Projects:
+* [Google](http://google.com)
+* ... 
+
+FINE CODICE PER ELENCO PROGETTI -->
