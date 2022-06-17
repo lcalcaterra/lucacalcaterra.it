@@ -14,14 +14,14 @@ output:
   postcards::jolla
 ---
  
-I am a Data Scientist and I love my wife. 
-Currently I work at Diskover on data science python applications. 
+I am a Data Scientist and this is my website. 
+Currently I work at Diskover on Machine Learning project. 
 I love drawing and reading novels. I also love talk about fitness. 
 
-<!-- INIZIO CODICE PER ELENCO PROGETTI
 
 ### Projects:
-* [Google](http://google.com)
-* ... 
+* [Portfolio](https://www.canva.com/design/DAETlFMWgwM/_ZPxGRku_4ztRbOCBr9Xog/view?utm_content=DAETlFMWgwM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+* [YouTube2MP3 Converter](https://hub.docker.com/repository/docker/lcalcaterra95/yt2mp3)
 
-FINE CODICE PER ELENCO PROGETTI -->
+### Data Science Articles:
+* [Normalizzazione dei dati](https://www.kaggle.com/code/talpinho/normalization-on-binary-wine-quality) 
