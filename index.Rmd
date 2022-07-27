@@ -8,8 +8,8 @@ links:
     url: "https://www.kaggle.com/talpinho"
   - label: GitHub
     url: "https://github.com/lcalcaterra"
-  - label: Email
-    url: "lucacalcaterra95@gmail.com"
+  - label: Curriculum Vitae
+    url: "https://www.canva.com/design/DAELCElIb28/W20-mLzgoIgohnn4g-OTug/view?utm_content=DAELCElIb28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
 output:
   postcards::trestles
 ---
@@ -17,6 +17,8 @@ output:
 I am a Data Scientist and this is my website. 
 Currently I work at Diskover on Machine Learning project. 
 I love drawing and reading novels. I also love talk about fitness. 
+
+Fell free to contact me via [mail](mailto:lucacalcaterra95@gmail.com) or on social networks. 
 
 
 #### Projects:
