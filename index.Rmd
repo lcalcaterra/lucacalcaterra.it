@@ -8,21 +8,20 @@ links:
     url: "https://www.kaggle.com/talpinho"
   - label: GitHub
     url: "https://github.com/lcalcaterra"
-  - label: Curriculum Vitae
-    url: "https://www.canva.com/design/DAELCElIb28/W20-mLzgoIgohnn4g-OTug/view?utm_content=DAELCElIb28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
 output:
   postcards::trestles
 ---
  
 I am a Data Scientist and this is my website. 
-Currently I work at Diskover on Machine Learning project. 
+Currently I work at [Diskover](https://diskover.it/) on Machine Learning project. 
 I love drawing and reading novels. I also love talk about fitness. 
+
+If you want to know more about me and the projects I've done check my portfolio in [English](https://www.canva.com/design/DAFHyCgJeBs/mgJvLWq1Ek3CrLwEkqDEew/view?utm_content=DAFHyCgJeBs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) or [Italian](https://www.canva.com/design/DAETlFMWgwM/_ZPxGRku_4ztRbOCBr9Xog/view?utm_content=DAETlFMWgwM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and my curriculum vitae in [English](https://www.canva.com/design/DAFHnFWfNpc/bM0lbKZBzmVuLckXB_i5Yg/view?utm_content=DAFHnFWfNpc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) or [Italian](https://www.canva.com/design/DAELCElIb28/W20-mLzgoIgohnn4g-OTug/view?utm_content=DAELCElIb28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).   
 
 Fell free to contact me via [mail](mailto:lucacalcaterra95@gmail.com) or on social networks. 
 
 
 #### Projects:
-* [Portfolio](https://www.canva.com/design/DAETlFMWgwM/_ZPxGRku_4ztRbOCBr9Xog/view?utm_content=DAETlFMWgwM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 * [YouTube2MP3 Converter](https://hub.docker.com/repository/docker/lcalcaterra95/yt2mp3)
 
 #### Data Science Articles:
